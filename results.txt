@@ -1,0 +1,32 @@
+# Research on Agentic AI
+
+## Overview
+After exploring the deeplearning.ai website, I found "Agentic AI" to be a particularly interesting and trending term in the field of artificial intelligence. Agentic AI refers to AI systems that can act autonomously as agents, performing tasks and making decisions on behalf of users without constant human supervision.
+
+## Paper 1: "Responsible AI Agents"
+**Authors:** Deven R. Desai and Mark O. Riedl
+**Published:** February 25, 2025
+
+This paper addresses concerns around AI agents head-on, particularly as companies like OpenAI, Google, Microsoft, and Salesforce are developing AI agents that can execute tasks rather than just generate passive text. The authors discuss how the technical architecture of software interactions can create natural limitations and disciplinary mechanisms for AI agents, potentially making them less prone to rogue actions than human agents.
+
+Key points:
+- The paper discusses how to leverage computer science approaches to value alignment to improve user control over AI agents
+- It argues against giving AI agents legal personhood status
+- It emphasizes that humans should remain responsible for AI agents' actions
+- It provides a framework for building and maintaining responsible AI agents
+
+## Paper 2: "Agentic AI and Multiagentic: Are We Reinventing the Wheel?"
+**Author:** V. Botti
+**Published:** June 2, 2025
+
+This critical analysis paper argues that the recent buzzwords "Agentic AI" and "Multiagentic AI" are essentially rebranding well-established concepts in AI literature: intelligent agents and multi-agent systems. The author points out this conceptual confusion overlooks decades of research in the field.
+
+Key points:
+- Reviews the theoretical origins of "agentic" in social sciences and philosophical notions of intentionality
+- Summarizes foundational works on intelligent agents and multi-agent systems
+- Examines classic agent architectures from reactive agents to Belief-Desire-Intention (BDI) models
+- Discusses recent developments in LLM-based AI agents and orchestration frameworks
+- Advocates for scientific rigor and use of established terminology
+
+## Conclusion
+The research highlights both the exciting potential and challenges of agentic AI systems. While companies are racing to develop more autonomous AI agents that can take actions on behalf of users, there are important considerations around responsibility, control, and the ethical implications of such systems. Additionally, the field should acknowledge and build upon decades of prior research in agent-based systems rather than treating agentic AI as an entirely new concept.
